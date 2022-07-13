@@ -1,11 +1,14 @@
 <template>
   <div>
-    <h1></h1>
+    <CompHome/>
   </div>
 </template>
 <script>
+import CompHome from 'src/components/CompHome';
 export default {
-
+    components: {
+       CompHome
+    }
 }
 </script>
 <style>
