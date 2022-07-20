@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <div>
     <article>
       <div class="container row justify-center">
@@ -80,4 +80,4 @@ article .cart{
 .bg{
   background-color: #520FAC;
 }
-</style>
+</style> -->
