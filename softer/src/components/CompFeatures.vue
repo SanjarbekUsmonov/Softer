@@ -29,7 +29,7 @@
                 explicabo. Nemo enim ipsam voluptatem quia.
               </div>
               <div class="q-mt-md">
-                <q-btn style="padding: 13px 32px;" color="indigo-10" label="read more"></q-btn>
+                <q-btn style="padding: 13px 32px;" color="indigo-10" glossy label="read more"></q-btn>
               </div>
             </div>
           </div>
@@ -62,7 +62,7 @@
                 </div>
               </div>
               <div class="q-mt-md">
-                <q-btn style="padding: 13px 32px;" color="indigo-10" label="read more"></q-btn>
+                <q-btn style="padding: 13px 32px;" color="indigo-10" glossy label="read more"></q-btn>
               </div>
             </div>
           </div>
@@ -82,7 +82,7 @@
                 explicabo. Nemo enim ipsam voluptatem quia.
               </div>
               <div class="q-mt-md">
-                <q-btn style="padding: 13px 32px;" color="indigo-10" label="read more"></q-btn>
+                <q-btn style="padding: 13px 32px;" color="indigo-10" glossy label="read more"></q-btn>
               </div>
             </div>
           </div>
