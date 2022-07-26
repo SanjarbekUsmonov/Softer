@@ -5,6 +5,7 @@
     <CompService/>
     <CompFeatures/>
     <CompWorks/>
+    <CompContact/>
   </div>
 </template>
 <script>
@@ -13,6 +14,7 @@ import CompAbout from 'src/components/CompAbout';
 import CompService from 'src/components/CompService';
 import CompFeatures from 'src/components/CompFeatures';
 import CompWorks from 'src/components/CompWorks';
+import CompContact from 'src/components/CompContact';
 export default {
   name:'indexPage',
   components: {
@@ -20,7 +22,8 @@ export default {
     CompAbout,
     CompService,
     CompFeatures,
-    CompWorks
+    CompWorks,
+    CompContact
 }
 }
 </script>

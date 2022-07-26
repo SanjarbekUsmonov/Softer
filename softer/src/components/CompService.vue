@@ -106,7 +106,7 @@ article .cart {
   border-radius: 4px;
   padding: 13px 32px;
   font-size: 14px;
-  letter-spacing: 0.6px;
+   transition: all 0.5s;
 
 }
 
