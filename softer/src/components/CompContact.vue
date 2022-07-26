@@ -15,38 +15,38 @@
         </div>
 
         <div class="w-100pr h-75pr  row">
-            <div class="w-45pr h-100pr  row justify-center content-center">
-              <div>
-                <q-card class="w-400px h-400px">
+          <div class="w-45pr h-100pr  row justify-center content-center">
+            <div>
+              <q-card class="w-400px h-400px">
 
-                </q-card>
-              </div>
+              </q-card>
             </div>
-            <div class="w-55pr h-100pr  row justify-center content-center">
-                <div>
-                  <q-card class="w-550px h-550px">
-                      <div class="input">
-                        <form>
-                           <div>
-                             <input class="w-100pr h-50px" placeholder="Your name..." type="text">
-                           </div>
-                           <div>
-                             <input class="w-100pr h-50px" placeholder="Your email..." type="email">
-                           </div>
-                           <div>
-                             <input class="w-100pr h-50px" placeholder="Your Subject..." type="text">
-                           </div>
-                           <div>
-                             <input class="w-100pr h-130px" placeholder="Youe massegae" type="textarea">
-                           </div>
-                        </form>
-                        <div>
-                            <q-btn style="padding: 13px 32px;" color="indigo-10" glossy label="read more"></q-btn>
-                        </div>
-                      </div>
-                  </q-card>
+          </div>
+          <div class="w-55pr h-100pr  row justify-center content-center">
+            <div>
+              <q-card class="w-550px h-550px">
+                <div class="input">
+                  <form>
+                    <div>
+                      <input class="w-100pr h-50px" placeholder="Your name..." type="text">
+                    </div>
+                    <div>
+                      <input class="w-100pr h-50px" placeholder="Your email..." type="email">
+                    </div>
+                    <div>
+                      <input class="w-100pr h-50px" placeholder="Your Subject..." type="text">
+                    </div>
+                    <div>
+                      <input class="w-100pr h-130px" placeholder="Youe massegae" type="textarea">
+                    </div>
+                  </form>
+                  <div>
+                    <q-btn style="padding: 13px 32px;" color="indigo-10" glossy label="read more"></q-btn>
+                  </div>
                 </div>
+              </q-card>
             </div>
+          </div>
         </div>
       </div>
     </div>
@@ -61,7 +61,8 @@ export default {
 .container {
   height: 120vh;
 }
-.input{
+
+.input {
   padding: 34px;
   line-height: 6;
   align-items: center;
